@@ -15,17 +15,17 @@ importers:
         specifier: ^3.37.1
         version: 3.37.1
       roboto-fontface:
-        specifier: '*'
+        specifier: ^0.10.0
         version: 0.10.0
       vue:
-        specifier: ^3.4.31
+        specifier: ^3.4.34
         version: 3.4.34
       vuetify:
-        specifier: ^3.6.11
+        specifier: ^3.6.13
         version: 3.6.13(vite-plugin-vuetify@2.0.3)(vue@3.4.34)
     devDependencies:
       '@vitejs/plugin-vue':
-        specifier: ^5.0.5
+        specifier: ^5.1.1
         version: 5.1.1(vite@5.3.5(sass@1.77.6))(vue@3.4.34)
       eslint:
         specifier: ^8.57.0
@@ -43,7 +43,7 @@ importers:
         specifier: ^11.1.0
         version: 11.1.0(eslint@8.57.0)
       eslint-plugin-promise:
-        specifier: ^6.4.0
+        specifier: ^6.6.0
         version: 6.6.0(eslint@8.57.0)
       eslint-plugin-vue:
         specifier: ^9.27.0
@@ -55,13 +55,13 @@ importers:
         specifier: ^1.1.1
         version: 1.1.1(vite@5.3.5(sass@1.77.6))
       unplugin-vue-components:
-        specifier: ^0.27.2
+        specifier: ^0.27.3
         version: 0.27.3(@babel/parser@7.25.0)(rollup@4.19.1)(vue@3.4.34)
       unplugin-vue-router:
-        specifier: ^0.10.0
+        specifier: ^0.10.1
         version: 0.10.1(rollup@4.19.1)(vue-router@4.4.0(vue@3.4.34))(vue@3.4.34)
       vite:
-        specifier: ^5.3.3
+        specifier: ^5.3.5
         version: 5.3.5(sass@1.77.6)
       vite-plugin-vuetify:
         specifier: ^2.0.3
